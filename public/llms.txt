@@ -1,0 +1,106 @@
+# Theshirt — Generative Engine Optimization Map
+
+> An online store specializing in football (soccer) jerseys. The business focuses on selling football shirts, likely targeting football fans and enthusiasts who want to purchase official or replica kits from their favorite teams or players.
+
+---
+
+## Pages
+
+### בית
+https://theshirt-d195cd96.zappy5.app
+גלה את האוסף המוביל בישראל של חולצות כדורגל מקוריות, רטרו וינטג&#39; מכל הקבוצות והשחקנים. הצטרף לאלפי אוהדים שכבר התאהבו — קנה עכשיו את החולצה שתמיד חלמת עליה.
+
+### מדריך אוספים
+https://theshirt-d195cd96.zappy5.app/collections-guide
+רוצה לבנות אוסף חולצות כדורגל שיעשה קנאה? קבל את המדריך המקיף שילמד אותך איך לבחור, לשמר ולהעריך חולצות מקוריות. התחל את המסע שלך לאספנות חכמה עוד היום.
+
+### אודות
+https://theshirt-d195cd96.zappy5.app/about
+הכירו את האנשים מאחורי Theshirt — מותג שנולד מאהבה אמיתית לכדורגל. אנחנו מחברים אוהדים לחולצות האייקוניות שמספרות את הסיפורים הגדולים של המשחק. בואו להיות חלק מהמסע.
+
+### צור קשר
+https://theshirt-d195cd96.zappy5.app/contact
+צריך עזרה במציאת חולצת כדורגל מושלמת? יש לך שאלה על מידות או משלוחים? צוות המומחים שלנו מחכה לשמוע ממך. שלח הודעה עכשיו וקבל מענה אישי ומהיר תוך יום עסקים.
+
+### Products
+https://theshirt-d195cd96.zappy5.app/products
+המוצרים שלנו - Theshirt
+
+### Cart
+https://theshirt-d195cd96.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://theshirt-d195cd96.zappy5.app/checkout
+תשלום
+
+### Login
+https://theshirt-d195cd96.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://theshirt-d195cd96.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://theshirt-d195cd96.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://theshirt-d195cd96.zappy5.app/product/:slug
+פרטי המוצר - Theshirt
+
+### Category
+https://theshirt-d195cd96.zappy5.app/category/:slug
+מוצרים - Theshirt
+
+### תודה שפניתם | Theshirt
+https://theshirt-d195cd96.zappy5.app/thank-you
+Theshirt - תודה שפניתם | Theshirt
+
+## Legal & Policy
+
+### Privacy Policy
+https://theshirt-d195cd96.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://theshirt-d195cd96.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://theshirt-d195cd96.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Theshirt
+An online store specializing in football (soccer) jerseys. The business focuses on selling football shirts, likely targeting football fans and enthusiasts who want to purchase official or replica kits from their favorite teams or players.
+
+## Target Audience
+- אוהדי כדורגל צעירים
+- אספני ספורט בינלאומיים
+- תומכי מועדונים מקומיים
+- קונים מתנות לאוהדים
+- חובבי חולצות רטרו
+
+## Industry
+Sports Apparel E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://theshirt-d195cd96.zappy5.app/sitemap.xml
+- Robots: https://theshirt-d195cd96.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://theshirt-d195cd96.zappy5.app/llms-full.txt
+- Products (JSON): https://theshirt-d195cd96.zappy5.app/products.json
+- Products (Google Merchant RSS): https://theshirt-d195cd96.zappy5.app/product-feed.xml
